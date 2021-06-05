@@ -1,5 +1,6 @@
 from collections import Counter
 
+
 def find_duplicate(nums):
     if nums == []:
         return False
